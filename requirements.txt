@@ -1,0 +1,6 @@
+asn1crypto
+cryptography
+oscrypto
+pyOpenSSL
+pytz
+requests
